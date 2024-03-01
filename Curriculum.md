@@ -146,6 +146,3 @@ Metodologia ágil Extreme Programming
   - ChatGPT, Copilot
 * **Hobbies**
   - IoT, Arduino, Raspberry, Eletrônica básica, Impressão 3D, Gravação/Corte a Laser
-
-## :key: Palavras Chaves
-Java, Analista Programador, Sênior, Backend, Desenvolvimento de Software, Spring, Arquitetura de Software, Metodologias Ágeis, REST, JUnit, Mockito, Maven, Git, IntelliJ IDEA, Scrum, SAP Commerce, Hybris, JavaScript, NodeJS, Hibernate, Oracle Database, Web Services, Tomcat, JBoss, Eclipse, Netbeans, JSP, HTML5, JQuery, CSS, SVN, JDBC, Apache Camel, Jira API, Google Guava, Hibernate Validator, Swagger, Glassfish, Spring RCP, NetBeans Visual Library, JSF, RichFaces, NetBeans RCP, EJB, Java Web Start, Weblogic, ANT, IBM RTC, Kotlin, Groovy, Scala, Tecnólogo, Comunicação Digital, Web Design, Academia do Java, Sun Certified Java Programmer, SCJP, OCJP, Keyrus, Flexvision, Spread Tecnologia, Freeddom Tecnologia, PowerMock, Mocha, Inteligência Artificial, ChatGPT, Copilot, Autodesenvolvimento, Eletrônica Básica, Impressão 3D, Gravação a Laser, Corte a Laser, Internet das Coisas, IoT, Arduino, Raspberry.
