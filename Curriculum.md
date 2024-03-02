@@ -2,6 +2,7 @@
 
 :envelope: rafael.biasi+resume@gmail.com  
 :link: https://www.linkedin.com/in/rafael-biasi-82ba0912/
+:octocat: https://github.com/rafaelbiasi
 
 ---
 
