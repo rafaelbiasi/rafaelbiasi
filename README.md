@@ -9,7 +9,7 @@
 ---
 
 :envelope: **E-mail:** [rafael.biasi+resume@gmail.com](mailto:rafael.biasi+resume@gmail.com)  
-:link: [**LinkedIn**](https://www.linkedin.com/in/rafael-biasi-82ba0912/)  
+:link: [**LinkedIn**](https://www.linkedin.com/in/rafael-biasi/)  
 :scroll: [Currículo completo](Curriculum.md)
 
 ---
