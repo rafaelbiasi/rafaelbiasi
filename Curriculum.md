@@ -1,7 +1,7 @@
 # Rafael Costa Biasi - Analista Programador Java Sênior
 
 :envelope: rafael.biasi+resume@gmail.com  
-:link: https://www.linkedin.com/in/rafael-biasi-82ba0912/  
+:link: https://www.linkedin.com/in/rafael-biasi/  
 :octocat: https://github.com/rafaelbiasi
 
 ---
