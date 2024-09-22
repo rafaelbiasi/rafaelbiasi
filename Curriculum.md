@@ -1,14 +1,14 @@
 # Rafael Costa Biasi - Analista Programador Java Sênior
 
-:envelope: rafael.biasi+resume@gmail.com  
-:link: https://www.linkedin.com/in/rafael-biasi/  
-:octocat: https://github.com/rafaelbiasi
+:email: rafael.biasi+resume@gmail.com  
+:link: [LinkedIn](https://www.linkedin.com/in/rafael-biasi/)  
+:octocat: [GitHub](https://github.com/rafaelbiasi)
 
 ---
 
-## :pushpin: Sobre mim
+## :pushpin: Resumo Profissional
 
-Analista Programador Java Sênior com mais de 16 anos de experiência, especializado em desenvolvimento backend e tecnologias Java. Comprovada capacidade em liderar projetos de desenvolvimento de software complexos, utilizando metodologias ágeis e aprimorando processos através de soluções inovadoras. Proficiente em uma ampla gama de tecnologias e frameworks, com foco em eficiência, escalabilidade e segurança.
+Analista Programador Java Sênior com mais de 16 anos de experiência em desenvolvimento backend e tecnologias Java. Possuo comprovada capacidade em liderar projetos complexos, utilizando metodologias ágeis e aprimorando processos através de soluções inovadoras. Proficiente em uma ampla gama de tecnologias e frameworks, com foco em eficiência, escalabilidade e segurança.
 
 ---
 
@@ -17,10 +17,14 @@ Analista Programador Java Sênior com mais de 16 anos de experiência, especiali
 Contribuir com habilidades avançadas de programação Java e experiência em arquitetura de software em um papel desafiador de Analista Programador Backend Java.
 
 ---
+## :books: Formação Acadêmica e Certificações
 
-## :books: Formação e Certificações
+**Formação Acadêmica**
 
 - Tecnólogo em Comunicação Digital Web Design, Universidade Paulista (UNIP) - 2004
+
+**Cursos e Certificações**
+
 - Academia do Java, Globalcode - 2006
 - Sun Certified Java Programmer (SCJP/OCJP) 5.0 - 2008
 - Academia do Arquiteto, Globalcode - 2012
@@ -29,121 +33,155 @@ Contribuir com habilidades avançadas de programação Java e experiência em ar
 
 ## :computer: Experiência Profissional
 
-### 👨‍💻 Projetos Pessoais e Desenvolvimento Contínuo | Autodesenvolvimento | Jan/2023 - Atual
+### <img src="icons/Nava.ico" width="24"> Analista Desenvolvedor Java | Nava | Jun/2024 - Atual
 
-Durante este período, concentrei-me no autodesenvolvimento e na exploração de novas tecnologias e projetos pessoais que complementam minha experiência como Analista Programador Java Sênior. Essas atividades incluíram:
+A **Nava** é uma empresa de tecnologia com mais de 28 anos de atuação e foco no segmento B2B, fornecendo serviços e soluções para Negócios e Tecnologia, como Plataforma de AIOps & Observability Strategy, Digital Strategy & Agile Development, Payments, Intelligent Outsourcing, Cloud & Infrastructure Solutions, Advanced Analytics & Automation e Cybersecurity.
 
-**Desenvolvimento de Habilidades Técnicas Complementares:** Aprimorei minhas habilidades em áreas complementares, como Eletrônica Básica, Impressão 3D e Gravação/Corte a Laser, explorando a interseção entre desenvolvimento de software e fabricação digital.
+#### Principais Projetos
 
-**Exploração de Ferramentas de IA e IoT:** Investiguei e experimentei com ferramentas de Inteligência Artificial, como ChatGPT e Copilot, além de aprofundar meus conhecimentos em Internet das Coisas (IoT), trabalhando em projetos de hobby que integram hardware e software.
+- **Vtal S.A.**: Arquitetura e desenvolvimento de microserviços para abertura de ticket de reparo e preventivas.
 
-**Estudo Independente:** Dediquei-me ao estudo autodirigido de novas tecnologias, frameworks e melhores práticas no desenvolvimento de software, mantendo-me atualizado com as tendências da indústria.
+#### Atividades e Realizações
 
-Este período foi uma oportunidade valiosa para refinar minhas habilidades técnicas, explorar novas áreas de interesse e contribuir para a comunidade de desenvolvimento, preparando-me para futuros desafios profissionais.
+- **Liderança Técnica Parcial**: Fornecimento de suporte técnico abrangente em tecnologias front-end e back-end, facilitando a resolução de desafios complexos.
 
----
+#### Tecnologias Utilizadas
 
-### <img src="icons/Keyrus.png" width="24"> Keyrus Brasil Serviços de Informática LTDA. | Analista Desenvolvedor Java | Mar/2018 - Jan/2023
+- Java 11, Spring Boot, Swagger, MySQL, REST, JUnit, Mockito, Maven, IntelliJ IDEA, Git
 
-A Keyrus é uma multinacional francesa composta por cerca de 2000 funcionários fundada em 1996, especializada em Management Consulting, Business Intelligence, Big Data, Web Performance, eCommerce, Omni Channel e soluções ERP-CRM.
+#### Metodologias
 
-#### Projetos os quais participei
-
-Participei do desenvolvimento do sistema de E-commerce do Carrefour, Alkosto (Colômbia) e Amway Brasil, usando a plataforma SAP Commerce / Hybris.
-
-##### Projetos notáveis
-- Carrefour: projeto de mudança de CD (centro de distribuição) e implementação de multi-cd. Manutenção da API de aplicativo mobile e implementação de testes utilizando NodeJs e Mocha.
-- Alkosto: implementação de multi-sites no site Alkomprar e configuração de 3 novos sites: Ktronix, Kalley e Alkosto.
-- Amway: projeto de migração de versão do sistema de pagamento da Braspag e implementação da autenticação 3DS 2.0.
-  Projeto de migração da versão do Hybris.
-- Liderança Técnica Parcial na Amway: atuei como facilitador técnico, auxiliando tanto o time de front-end quanto o de back-end, promovendo a integração eficaz entre estas duas áreas críticas do desenvolvimento. Minha atuação se concentrou em orientar a equipe na resolução de problemas técnicos complexos e na implementação de soluções inovadoras, sem envolvimento direto na gestão organizacional do time.
-- Otimização de Processos: implementei automatizações para aumentar a produtividade da equipe, incluindo ferramentas práticas para conexão VPN e utilitários que otimizaram as rotinas diárias de desenvolvimento.
-- Gestão de Código e Deploy: fui responsável pelo merge e deploy de tarefas em ambientes de teste, além de preparar e implementar tarefas testadas para deploy em produção, assegurando a qualidade e estabilidade das entregas.
-- Participação em GMUDs: liderei e contribuí ativamente em Grupos de Mudanças em Ambientes de Produção (GMUDs), planejando e executando deploys com êxito, assegurando a conformidade e a eficácia das atualizações de sistema em ambiente produtivo.
-
-#### Tecnologias com que trabalhei
-
-Tecnologias com que trabalhei: SAP Commerce / Hybris, Java 17, Spring, MySql, REST, Junit, Mockito, PowerMock, Maven, Git, IntelliJ IDEA, Javascript, NodeJS e Mocha.
-
-#### Metodologia de desenvolvimento
-
-Metodologia ágil Scrum.
+- Metodologia Ágil Scrum
 
 ---
 
-### <img src="icons/Flexvision.jpg" width="24"> Flexvision Serviços LTDA (Atualmente: Nava Comercio de Produtos de Tecnologia LTDA) | Analista Desenvolvedor Java | Dez/2016 - Mar/2018
+## 👨‍💻 Projetos Pessoais e Desenvolvimento Contínuo | Jan/2023 - Jun/2024
 
-A FlexVision é uma empresa de tecnologia com 18 anos de experiência, que se destaca pela qualidade das soluções desenvolvidas e pela eficiência na implementação de projetos de alta complexidade.
+Durante este período, foquei no autodesenvolvimento e na exploração de novas tecnologias que complementam minha experiência profissional.
 
-Atuei como semi-líder-técnico, fornecendo suporte técnico abrangente tanto em tecnologias front-end quanto back-end, facilitando a resolução de desafios complexos e promovendo uma abordagem colaborativa para a solução de problemas.
+#### Atividades
 
-#### Projetos os quais participei
+- **Estudo Independente**: Atualização constante em novas tecnologias, frameworks e melhores práticas em desenvolvimento de software.
+- **Exploração de Ferramentas de IA e IoT**: Experimentação com ChatGPT, Copilot e aprofundamento em IoT, integrando hardware e software.
+- **Desenvolvimento de Habilidades Técnicas Complementares**: Aprimoramento em Eletrônica Básica, Impressão 3D e Gravação/Corte a Laser.
 
-Manutenção e desenvolvimento de sistema de monitoramento de rede e responsável pela arquitetura e desenvolvimento do sistema de integração de aplicações de monitoramento de rede.
-
-##### Projetos notáveis
-- Oi S.A.: Arquitetura e desenvolvimento solo de um Middleware utilizando Apache Camel para cadastro e edição de equipamentos de rede em 4 sistemas internos, com o Jira como formulário e fonte de dados.
-- Sistemas de monitoramento de rede: desenvolvimento de API Rest para cadastro e edição de equipamentos de rede.
-
-#### Tecnologias com que trabalhei
-
-Tecnologias com que trabalhei: Java 8, Spring, JDBC, Jira API, Google Guava, Apache Camel, Hibernate Validator, Swagger, Glassfish, MySql, REST, Junit, Mockito, Maven, IntelliJ IDEA e Subversion.
-
-#### Metodologia de desenvolvimento
-
-Metodologia ágil Scrum.
+Este período foi essencial para refinar minhas habilidades técnicas, explorar novas áreas de interesse e contribuir com a comunidade de desenvolvimento.
 
 ---
 
-### <img src="icons/Spread.png" width="24"> Spread Tecnologia (alocado na Petrobras) | Desenvolvedor de Sistema | Set/2012 - Mar/2016
+### <img src="icons/Keyrus.png" width="24"> Analista Desenvolvedor Java Sênior | Keyrus Brasil | Mar/2018 - Jan/2023
 
-A Spread Tecnologia é uma das maiores provedoras e integradoras de soluções em tecnologia da informação do Brasil e atua nas linhas de Sistemas, Serviços Gerenciados e Comunicação e Colaboração.
+A **Keyrus** é uma multinacional francesa especializada em Management Consulting, Business Intelligence, Big Data, Web Performance, eCommerce, Omni Channel e soluções ERP-CRM.
 
-#### Projetos os quais participei
+#### Principais Projetos
 
-Participei do desenvolvimento e integração de sistemas e suporte de dois projetos integrados de logística, ambos usando a plataforma Java, sendo um deles Web (Spring, Spring RCP, Netbeans Visual Library, JSF/RichFaces, Applet) e outro Desktop (NetBeans RCP, Netbeans Visual Library, EJB, Java Web Start).
+- **Amway**: Migração de versão do sistema de pagamento da Braspag e implementação da autenticação 3DS 2.0. Projeto de migração da versão do Hybris.
+- **Alkosto**: Implementação de multi-sites no site Alkomprar e configuração de três novos sites: Ktronix, Kalley e Alkosto.
+- **Carrefour**: Projeto de mudança de Centro de Distribuição (CD) e implementação de multi-CD. Manutenção da API do aplicativo mobile e implementação de testes utilizando Node.js e Mocha.
 
-##### Projetos notáveis
-- Sistema de logistica: projeto de versionamento, mesclagem e resolução de conflitos de dados de cenários de logistica.
-- Sistema de logistica: projeto para refazer o diagrama visual logístico de 2 sistemas de logisticas distintos, utilizando o NetBeans Visual Library, com criação de componentes e rotamento customizados.
+#### Atividades e Realizações
 
-#### Tecnologias com que trabalhei
+- **Liderança Técnica Parcial**: Facilitador técnico, auxiliando tanto o time de front-end quanto o de back-end, promovendo a integração eficaz entre estas duas áreas críticas do desenvolvimento. Minha atuação se concentrou em orientar a equipe na resolução de problemas técnicos complexos e na implementação de soluções inovadoras, sem envolvimento direto na gestão organizacional do time.
+- **Otimização de Processos**: Implementação de automatizações para aumentar a produtividade, incluindo ferramentas para conexão VPN e utilitários que otimizaram rotinas diárias.
+- **Gestão de Código e Deploy**: Responsável pelo merge e deploy de tarefas em ambientes de teste e produção, assegurando qualidade e estabilidade nas entregas.
+- **Participação em GMUDs**: Liderei e contribuí ativamente em Grupos de Mudanças em Ambientes de Produção (GMUDs), planejando e executando deploys com êxito, assegurando a conformidade e a eficácia das atualizações de sistema em ambiente produtivo.
 
-Tecnologias com que trabalhei: Java 8, Spring, Spring RCP, Spring MVC, Applet, EJB, JSF/RichFaces, Hibernate, Netbeans RCP, Swing, Netbeans Visual Library, Weblogic, Oracle Database, Junit, Mockito, HTML5, Javascript, Jquery, IntelliJ IDEA, Eclipse, Netbeans, Maven, ANT, Git, IBM RTC, Web Services, REST.
+#### Tecnologias Utilizadas
 
-#### Metodologia de desenvolvimento
+- SAP Commerce/Hybris, Java 17, Spring, MySQL, REST, JUnit, Mockito, PowerMock, Maven, Git, IntelliJ IDEA, JavaScript, Node.js, Mocha
 
-Metodologia ágil Scrum.
+#### Metodologias
 
----
-
-### <img src="icons/Freeddom.jpg" width="24"> Freeddom Tecnologia e Serviços (antiga Paggo Participações) | Analista de Sistemas | Ago/2008 - Ago/2012
-
-A Freeddom é a empresa pioneira no sistema de crédito onde as transações comerciais entre clientes e lojistas são feitas através de aparelhos de telefone celular.
-
-#### Projetos os quais participei
-
-Participei do desenvolvimento de novas funcionalidades do sistema de gestão de pagamentos mobile e pela manutenção e suporte ao sistema existente.
-
-##### Projetos notáveis
-- Sistema de atendimento ao cliente: integração de URA com o sistema de atendimento ao cliente.
-- Participei do projeto de modularização e adequação de código do sistema de cartão de crédito.
-
-#### Tecnologias com que trabalhei
-
-Tecnologias com que trabalhei: Java 6, Spring, Struts, Hibernate, Oracle Database, Junit, Mockito, JSP, HTML5, Javascript, JQuery, CSS, Eclipse, Maven, SVN, Tomcat e JBoss.
-
-#### Metodologia de desenvolvimento
-
-Metodologia ágil Extreme Programming
+- Metodologia Ágil Scrum
 
 ---
 
-## :hammer_and_wrench: Conhecimentos Extraprofissional
+### <img src="icons/Flexvision.jpg" width="24"> Analista Desenvolvedor Java | Flexvision (atualmente Nava) | Dez/2016 - Mar/2018
 
-* **Linguagens:**
-  - Kotlin, Groovy, Scala
-* **Ferramentas de IA:**
-  - ChatGPT, Copilot
-* **Hobbies**
-  - IoT, Arduino, Raspberry, Eletrônica básica, Impressão 3D, Gravação/Corte a Laser
+A **Flexvision** é uma empresa de tecnologia com 18 anos de experiência, destacando-se pela qualidade das soluções desenvolvidas e eficiência na implementação de projetos de alta complexidade.
+
+#### Principais Projetos
+
+- **Oi S.A.**: Arquitetura e desenvolvimento de um middleware utilizando Apache Camel para cadastro e edição de equipamentos de rede em quatro sistemas internos, com o Jira como fonte de dados.
+- **Sistemas de Monitoramento de Rede**: Desenvolvimento de API REST para cadastro e edição de equipamentos de rede.
+
+#### Atividades e Realizações
+
+- **Liderança Técnica Parcial**: Fornecendo suporte técnico abrangente tanto em tecnologias front-end quanto back-end, facilitando a resolução de desafios complexos e promovendo uma abordagem colaborativa para a solução de problemas, sem envolvimento direto na gestão organizacional do time.
+
+#### Tecnologias Utilizadas
+
+- Java 8, Spring, JDBC, Jira API, Google Guava, Apache Camel, Hibernate Validator, Swagger, GlassFish, MySQL, REST, JUnit, Mockito, Maven, IntelliJ IDEA, Subversion
+
+#### Metodologias
+
+- Metodologia Ágil Scrum
+
+---
+
+### <img src="icons/Spread.png" width="24"> Desenvolvedor de Sistemas | Spread Tecnologia (alocado na Petrobras) | Set/2012 - Mar/2016
+
+A **Spread Tecnologia** é uma das maiores provedoras e integradoras de soluções em TI do Brasil, atuando nas linhas de Sistemas, Serviços Gerenciados e Comunicação e Colaboração.
+
+#### Principais Projetos
+
+- **Sistema de Logística**: Projeto de versionamento, mesclagem e resolução de conflitos de dados de cenários logísticos.
+- **Diagrama Visual Logístico**: Desenvolvimento de diagrama visual utilizando NetBeans Visual Library, com criação de componentes e roteamento customizados.
+
+#### Atividades e Realizações
+
+- Desenvolvimento e integração de sistemas e suporte em dois projetos integrados de logística, um web e outro desktop.
+
+#### Tecnologias Utilizadas
+
+- Java 8, Spring, Spring RCP, Spring MVC, Applet, EJB, JSF/RichFaces, Hibernate, NetBeans RCP, Swing, NetBeans Visual Library, WebLogic, Oracle Database, JUnit, Mockito, HTML5, JavaScript, jQuery, IntelliJ IDEA, Eclipse, NetBeans, Maven, ANT, Git, IBM RTC, Web Services, REST
+
+#### Metodologias
+
+- Metodologia Ágil Scrum
+
+---
+
+### <img src="icons/Freeddom.jpg" width="24"> Analista de Sistemas | Freeddom (antiga Paggo) | Ago/2008 - Ago/2012
+
+A **Freeddom** é pioneira em sistemas de crédito onde transações comerciais entre clientes e lojistas são realizadas através de aparelhos celulares.
+
+#### Principais Projetos
+
+- **Sistema de Atendimento ao Cliente**: Integração de URA com o sistema de atendimento.
+- **Sistema de Cartão de Crédito**: Participação na modularização e adequação de código.
+
+#### Atividades e Realizações
+
+- Desenvolvimento de novas funcionalidades no sistema de gestão de pagamentos mobile e manutenção do sistema existente.
+
+#### Tecnologias Utilizadas
+
+- Java 6, Spring, Struts, Hibernate, Oracle Database, JUnit, Mockito, JSP, HTML5, JavaScript, jQuery, CSS, Eclipse, Maven, SVN, Tomcat, JBoss
+
+#### Metodologias
+
+- Metodologia Ágil Extreme Programming
+
+---
+
+## :hammer_and_pick: Habilidades Técnicas
+
+- **Linguagens de Programação**: Java (versões 6 a 21), Kotlin, Groovy, Scala
+- **Frameworks e Tecnologias**: Spring (MVC, RCP), Hibernate, EJB, JSF/RichFaces, SAP Commerce/Hybris, Apache Camel
+- **Banco de Dados**: Oracle Database, MySQL
+- **Ferramentas de Teste**: JUnit, Mockito, PowerMock
+- **Controle de Versão e Build**: Maven, ANT, Git, SVN
+- **IDEs e Editores**: IntelliJ IDEA, Eclipse, NetBeans
+- **Desenvolvimento Web e Front-end**: HTML5, JavaScript, Node.js, jQuery, JSP, CSS, Mocha
+- **Servidores de Aplicação**: Tomcat, JBoss, WebLogic, GlassFish
+- **Ferramentas de Colaboração**: Jira, IBM RTC
+- **Metodologias Ágeis**: Scrum, Extreme Programming
+
+---
+
+## :hammer_and_wrench: Conhecimentos Adicionais
+
+- **Ferramentas de Inteligência Artificial**: ChatGPT, Copilot
+- **Internet das Coisas (IoT)**: Arduino, Raspberry Pi
+- **Hobbies**: Eletrônica básica, Impressão 3D, Gravação/Corte a Laser
