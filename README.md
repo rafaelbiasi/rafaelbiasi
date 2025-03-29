@@ -1,7 +1,5 @@
 # Rafael Costa Biasi
 
-<img src="images/logo.webp" width="260em" align="right">
-
 ### Analista Programador Java Sênior
 ### Especialista em Desenvolvimento Backend
 
