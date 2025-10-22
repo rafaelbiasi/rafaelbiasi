@@ -1,23 +1,23 @@
 # Rafael Costa Biasi - Analista Programador Java Sênior
 
-:email: rafael.biasi+resume@gmail.com  
-:link: [LinkedIn - https://www.linkedin.com/in/rafael-biasi/](https://www.linkedin.com/in/rafael-biasi/)  
-:octocat: [GitHub - https://github.com/rafaelbiasi](https://github.com/rafaelbiasi)
+rafael.biasi+resume@gmail.com  
+[LinkedIn - https://www.linkedin.com/in/rafael-biasi/](https://www.linkedin.com/in/rafael-biasi/)  
+[GitHub - https://github.com/rafaelbiasi](https://github.com/rafaelbiasi)
 
 ---
 
-## :pushpin: Resumo Profissional
+## Resumo Profissional
 
 Analista Programador Java Sênior com mais de 16 anos de experiência em desenvolvimento backend e tecnologias Java. Possuo comprovada capacidade em liderar projetos complexos, utilizando metodologias ágeis e aprimorando processos através de soluções inovadoras. Proficiente em uma ampla gama de tecnologias e frameworks, com foco em eficiência, escalabilidade e segurança.
 
 ---
 
-## :dart: Objetivo
+## Objetivo
 
 Contribuir com habilidades avançadas de programação Java e experiência em arquitetura de software em um papel desafiador de Analista Programador Backend Java.
 
 ---
-## :books: Formação Acadêmica e Certificações
+## Formação Acadêmica e Certificações
 
 **Formação Acadêmica**
 
@@ -31,7 +31,7 @@ Contribuir com habilidades avançadas de programação Java e experiência em ar
 
 ---
 
-## :computer: Experiência Profissional
+## Experiência Profissional
 
 ### <img src="icons/Nava.ico" width="24"> Analista Desenvolvedor Java | Nava | Jun/2024 - Atual
 
@@ -152,7 +152,7 @@ A **Freeddom** é pioneira em sistemas de crédito onde transações comerciais 
 
 ---
 
-## :hammer_and_pick: Habilidades Técnicas
+## Habilidades Técnicas
 
 - **Linguagens de Programação**: Java (versões 6 a 21), Kotlin, Groovy, Scala
 - **Frameworks e Tecnologias**: Spring (MVC, RCP), Hibernate, EJB, JSF/RichFaces, SAP Commerce/Hybris, Apache Camel
@@ -164,11 +164,3 @@ A **Freeddom** é pioneira em sistemas de crédito onde transações comerciais 
 - **Servidores de Aplicação**: Tomcat, JBoss, WebLogic, GlassFish
 - **Ferramentas de Colaboração**: Jira, IBM RTC
 - **Metodologias Ágeis**: Scrum, Extreme Programming
-
----
-
-## :hammer_and_wrench: Conhecimentos Adicionais
-
-- **Ferramentas de Inteligência Artificial**: ChatGPT, Copilot
-- **Internet das Coisas (IoT)**: Arduino, Raspberry Pi
-- **Hobbies**: Eletrônica básica, Impressão 3D, Gravação/Corte a Laser
