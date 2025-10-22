@@ -40,32 +40,19 @@ A **Nava** é uma empresa de tecnologia com mais de 28 anos de atuação e foco 
 #### Principais Projetos
 
 - **Vtal S.A.**: Arquitetura e desenvolvimento de microserviços para abertura de ticket de reparo e preventivas.
+- **Alma**: Responsável por atender demandas específicas de clientes que utilizam o módulo de Infraestrutura e Monitoramento (IM) do Alma Platform.
 
 #### Atividades e Realizações
 
-- **Liderança Técnica Parcial**: Fornecimento de suporte técnico abrangente em tecnologias front-end e back-end, facilitando a resolução de desafios complexos.
+- Fornecimento de suporte técnico abrangente em tecnologias front-end e back-end, facilitando a resolução de desafios complexos.
 
 #### Tecnologias Utilizadas
 
-- Java 11, Spring Boot, Swagger, MySQL, REST, JUnit, Mockito, Maven, IntelliJ IDEA, Git
+- Java 21, Spring Boot, Swagger, MySQL, REST, JUnit, Mockito, Maven, IntelliJ IDEA, Git, Kubernetes, Docker.
 
 #### Metodologias
 
 - Metodologia Ágil Scrum
-
----
-
-## 👨‍💻 Projetos Pessoais e Desenvolvimento Contínuo | Jan/2023 - Jun/2024
-
-Durante este período, foquei no autodesenvolvimento e na exploração de novas tecnologias que complementam minha experiência profissional.
-
-#### Atividades
-
-- **Estudo Independente**: Atualização constante em novas tecnologias, frameworks e melhores práticas em desenvolvimento de software.
-- **Exploração de Ferramentas de IA e IoT**: Experimentação com ChatGPT, Copilot e aprofundamento em IoT, integrando hardware e software.
-- **Desenvolvimento de Habilidades Técnicas Complementares**: Aprimoramento em Eletrônica Básica, Impressão 3D e Gravação/Corte a Laser.
-
-Este período foi essencial para refinar minhas habilidades técnicas, explorar novas áreas de interesse e contribuir com a comunidade de desenvolvimento.
 
 ---
 
